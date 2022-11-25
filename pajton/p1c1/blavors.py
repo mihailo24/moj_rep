@@ -1,0 +1,1 @@
+print("pozdrav od blavora")
